@@ -1,3 +1,13 @@
+# Ruby version
+
+- Rbenv
+
+```
+$ rbenv install 2.2.0-rc1
+$ rbenv global 2.2.0-rc1
+$ ruby -v
+```
+
 # Features
 - Individual page for assignments, lectures, course material, course schedule
 - Auto generated Course schedule Page

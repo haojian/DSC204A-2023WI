@@ -1,14 +1,14 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Scalable Data Systems
+course_description: "Data science professionals ought to be familiarized with data systems from a user's standpoint, as opposed to the conventional approach of a system implementer."
+course_semester: "Winter 2023"
 
 baseurl: "/DSC204A23WI/" # the subpath of your site, e.g. /blog/
-url: "http://haojian.github.io/" # the base hostname & protocol for your site
+url: "http://haojian.github.io" # the base hostname & protocol for your site
 
 schoolname: "University of California San Diego"
 schoolurl: "https://ucsd.edu/"
-twitter_username: username 
+twitter_username: haojian_jin 
 
 address: |
     9500 Gilman Dr
