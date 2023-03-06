@@ -59,10 +59,6 @@ DSC 202 (Data Mgt for Data Science); or substantial practical experience with sc
 Proficiency in Python programming.
 
 
-
-
-
-
 ## Grading
 
 **Components**: 
