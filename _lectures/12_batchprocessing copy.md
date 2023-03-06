@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2023-04-17
-title: Data encoding and dataflow 
-tldr: "JSON/XML/Protobuff/REST/RPC/GraphQL"
+date: 2023-05-12
+title: Batch processing
+tldr: ""
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     # - url: /static_files/presentations/lec.zip
