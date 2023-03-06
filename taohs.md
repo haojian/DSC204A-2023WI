@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TA OHs
+title: Tentative Schedule of TA Office Hours
 permalink: /taohs/
 ---
 
