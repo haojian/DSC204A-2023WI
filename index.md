@@ -13,7 +13,11 @@ The course is organized into three parts, covering the following topics.
 
 A major component of this course is hands-on Python programming to implement data exploration, data preparation, and model selection pipelines on large real-world data using scalable analytics tools and cloud resources, both Amazon Web Services (AWS) public cloud and SDSC's private cloud.
 
+## Administrivia
 
+**Lectures**: MWF 03:00PM-03:50PM; PETER 104
+
+**Instructor**: [Haojian Jin](http://haojianj.in/); Office: SDSC 214E; Office Hours: Tue 2:00-3:00pm
 
 ## Course Content and Format
 
@@ -54,17 +58,14 @@ DSC 202 (Data Mgt for Data Science); or substantial practical experience with sc
 
 Proficiency in Python programming.
 
-## Suggested textbooks:
 
-- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 
 
 
 
 ## Grading
 
-### Components
-
+**Components**: 
 - Programming Assignments: 8% + 16% + 16%
 - Final Exam: 20%
 - Big Data Project: 30%
@@ -72,7 +73,7 @@ Proficiency in Python programming.
 - Extra Credit Peer Evaluation Activities: 4% (likely)
 
 
-### Cutoffs
+**Cutoffs**: 
 The grading scheme is a hybrid of absolute and relative grading. The absolute cutoffs are based on your absolute total score. The relative bins are based on your position in the total score distribution of the class. The better grade among the two (absolute-based and relative-based) will be your final grade.
 
 
