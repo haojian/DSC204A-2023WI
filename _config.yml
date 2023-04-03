@@ -1,7 +1,7 @@
 # Site settings
 course_name: DSC 204A - Scalable Data Systems
 course_description: "Data science professionals ought to be familiarized with data systems from a user's standpoint, as opposed to the conventional approach of a system implementer."
-course_semester: "Winter 2023"
+course_semester: "Spring 2023"
 
 baseurl: "/DSC204A23WI" # the subpath of your site, e.g. /blog/
 url: "http://haojian.github.io" # the base hostname & protocol for your site
