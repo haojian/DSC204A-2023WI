@@ -3,13 +3,13 @@ type: lecture
 date: 2023-04-03
 title: Introduction & logistics
 tldr: "Course goals, content, format, pre-requisites, grading"
-thumbnail: /static_files/presentations/lec.jpg
+thumbnail: /static_files/presentations/week1alec.jpg
 links: 
     # - url: /static_files/presentations/lec.zip
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: https://google.com
+    - url: /static_files/presentations/week1aLogistics.pdf
       name: slides
 ---
 <!-- **Suggested Readings:**
