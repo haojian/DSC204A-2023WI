@@ -2,7 +2,7 @@
 type: lecture
 date: 2023-04-05
 title: Basics of Machine Resources
-tldr: "Computer organization, operating systems"
+tldr: "Data representation, computer organization, operating systems"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     # - url: /static_files/presentations/lec.zip
