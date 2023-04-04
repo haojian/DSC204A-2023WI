@@ -17,7 +17,7 @@ A major component of this course is hands-on Python programming to implement dat
 
 **Lectures**: MWF 03:00PM-03:50PM; PETER 104
 
-**Instructor**: [Haojian Jin](http://haojianj.in/); Office: SDSC 214E; Office Hours: Tue 2:00-3:00pm
+**Instructor**: [Haojian Jin](http://haojianj.in/); Office: SDSC 214E; Office Hours: Wed 4:00-5:00pm
 
 ## Course Content and Format
 
