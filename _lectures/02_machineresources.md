@@ -10,9 +10,9 @@ links:
     # - url: /static_files/presentations/code.zip
     #   name: codes
     - url: /static_files/presentations/2DataRepresentation.pdf
-      name: slides 1
+      name: Apr. 5th slides
     - url: /static_files/presentations/3MachineResources.pdf
-      name: slides 2
+      name: Apr. 7th tentative slides
 ---
 **Suggested Readings:**
 - Ch. 1, 2.1-2.3, 2.12, 4.1, and 5.1-5.5 of CompOrg Book
