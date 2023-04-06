@@ -63,9 +63,8 @@ Proficiency in Python programming.
 
 **Components**: 
 - Programming Assignments: 8% + 16% + 16%
-- Final Exam: 20%
-- Big Data Project: 30%
-- In-class Peer Instruction Activities: 10%
+- Final Exam: 40%
+- In-class Peer Instruction Activities: 20%
 - Extra Credit Peer Evaluation Activities: 4% (likely)
 
 
