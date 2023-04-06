@@ -9,7 +9,7 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/week1aLogistics.pdf
+    - url: /static_files/presentations/1Logistics.pdf
       name: slides
 ---
 <!-- **Suggested Readings:**
