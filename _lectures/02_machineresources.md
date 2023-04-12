@@ -12,9 +12,9 @@ links:
     - url: /static_files/presentations/2DataRepresentation.pdf
       name: Apr. 5th slides
     - url: /static_files/presentations/3MachineResources.pdf
-      name: Apr. 7th tentative slides
+      name: Apr. 7th slides
     - url: /static_files/presentations/4MemoryHierachy.pdf
-      name: Apr. 10th tentative slides
+      name: Apr. 10th slides
     - url: /static_files/presentations/5BasicsofOS.pdf
       name: Apr. 12th tentative slides
 ---
