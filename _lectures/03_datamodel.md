@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2023-04-10
-title: Basics of Cloud Computing
+date: 2023-04-12
+title: Data encoding and evolution
 tldr: ""
 thumbnail: /static_files/presentations/lec.jpg
 links: 
@@ -15,3 +15,5 @@ links:
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)
 - [Readings 2](http://example.com) -->
+ <!-- (MapReduce, SPARQL) -->
+  <!-- & query lanaguages -->
