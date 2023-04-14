@@ -16,7 +16,9 @@ links:
     - url: /static_files/presentations/4MemoryHierachy.pdf
       name: Apr. 10th slides
     - url: /static_files/presentations/5BasicsofOS.pdf
-      name: Apr. 12th tentative slides
+      name: Apr. 12th slides
+    - url: /static_files/presentations/6FileStorage.pdf
+      name: Apr. 14th tentative slides
 ---
 **Suggested Readings:**
 - Ch. 1, 2.1-2.3, 2.12, 4.1, and 5.1-5.5 of CompOrg Book
