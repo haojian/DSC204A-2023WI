@@ -2,7 +2,7 @@
 type: lecture
 date: 2023-04-17
 title: Basics of Cloud Computing
-tldr: ""
+tldr: "sharing granularity, Cloud computing layers, Advantages of Cloud computing"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     # - url: /static_files/presentations/lec.zip

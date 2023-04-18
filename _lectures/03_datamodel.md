@@ -2,7 +2,7 @@
 type: lecture
 date: 2023-04-07
 title: Machine resources
-tldr: ""
+tldr: "Computer hardware/software, instructions"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     # - url: /static_files/presentations/lec.zip

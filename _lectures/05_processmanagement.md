@@ -2,7 +2,7 @@
 type: lecture
 date: 2023-04-12
 title: Process Management
-tldr: ""
+tldr: "Virtualization, Concurrency, Scheduling policy"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     # - url: /static_files/presentations/lec.zip

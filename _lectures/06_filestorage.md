@@ -2,7 +2,7 @@
 type: lecture
 date: 2023-04-14
 title: File Storage
-tldr: ""
+tldr: "Data Files, Matrix, Data frames"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     # - url: /static_files/presentations/lec.zip
