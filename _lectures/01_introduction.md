@@ -10,7 +10,7 @@ links:
     # - url: /static_files/presentations/code.zip
     #   name: codes
     - url: /static_files/presentations/1Logistics.pdf
-      name: slides
+      name: Apr. 3rd Slides
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)

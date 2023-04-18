@@ -1,21 +1,20 @@
 ---
 type: lecture
-date: 2023-04-20
-title: Big data storage and retrieval
-tldr: "Data warehousing, data lakes, column storage"
+date: 2023-04-12
+title: Process Management
+tldr: ""
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     # - url: /static_files/presentations/lec.zip
     #   name: notes
-    # - url: /static_files/presentations/code.zip
+    # - url: 
     #   name: codes
-    # - url: https://google.com
-    #   name: slides
+    - url: /static_files/presentations/5BasicsofOS.pdf
+      name: Apr. 12th slides
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)
 - [Readings 2](http://example.com) -->
- <!-- (MapReduce, SPARQL) -->
 
 
 **Suggested Readings:**

@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2023-04-12
-title: Data encoding and evolution
+date: 2023-04-07
+title: Machine resources
 tldr: ""
 thumbnail: /static_files/presentations/lec.jpg
 links: 
@@ -9,11 +9,9 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    # - url: https://google.com
-    #   name: slides
+    - url: /static_files/presentations/3MachineResources.pdf
+      name: Apr. 7th Slides
 ---
-<!-- **Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com) -->
- <!-- (MapReduce, SPARQL) -->
-  <!-- & query lanaguages -->
+
+**Suggested Readings:**
+- Ch. 1, 2.1-2.3, 2.12, 4.1, and 5.1-5.5 of CompOrg Book
