@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-04-19
+date: 2023-04-29
 title: Data encoding and dataflow 
 tldr: "JSON/XML/Protobuff/REST/RPC/GraphQL"
 thumbnail: /static_files/presentations/lec.jpg
