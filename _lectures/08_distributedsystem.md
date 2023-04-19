@@ -1,16 +1,16 @@
 ---
 type: lecture
 date: 2023-04-19
-title: Introduction to Distributed Systems
-tldr: ""
+title: Basics of Network
+tldr: "An overview of distributed system, basics of network, speed estimate, TCP/UDP, Protocol hourglass"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     # - url: /static_files/presentations/lec.zip
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    # - url: https://google.com
-    #   name: slides
+    - url: /static_files/presentations/8BasicsofNetwork.pdf
+      name: slides
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)
