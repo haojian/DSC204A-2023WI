@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2023-04-10
-title: Memory Hierachy
+title: Memory Hierarchy
 tldr: "The memory abstraction, Locality of reference, The memory hierarchy, Storage technologies and trends"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
