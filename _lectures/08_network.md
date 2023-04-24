@@ -10,7 +10,7 @@ links:
     # - url: /static_files/presentations/code.zip
     #   name: codes
     - url: /static_files/presentations/8BasicsofNetwork.pdf
-      name: slides
+      name: Apr. 19-21 slides
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)
