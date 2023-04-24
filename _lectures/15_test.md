@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-04-21
+date: 2023-06-13
 title: Network in distributed systems (Cloud, Cluster, Edge)
 tldr: ""
 thumbnail: /static_files/presentations/lec.jpg
