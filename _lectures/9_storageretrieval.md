@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-04-20
+date: 2023-04-24
 title: Storage and retrieval
 tldr: "Indexes, Data warehousing, data lakes, column storage"
 thumbnail: /static_files/presentations/lec.jpg
