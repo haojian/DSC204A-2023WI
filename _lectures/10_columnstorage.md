@@ -10,7 +10,7 @@ links:
     # - url: /static_files/presentations/code.zip
     #   name: codes
     - url: /static_files/presentations/10ColumnStorage.pdf
-      name: slides
+      name: Apr. 28-May. 1 slides
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)
