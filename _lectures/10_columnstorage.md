@@ -2,7 +2,7 @@
 type: lecture
 date: 2023-04-28
 title: Column storage
-tldr: "OLAP, OLTP, Data warehouse"
+tldr: "OLAP, OLTP, Data warehouse, Stars and snowflakes, Column-oriented storage, Materialized views"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     # - url: /static_files/presentations/lec.zip
