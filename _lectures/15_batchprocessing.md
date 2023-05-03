@@ -16,3 +16,7 @@ links:
 - [Readings 1](http://example.com)
 - [Readings 2](http://example.com) -->
  <!-- (MapReduce, SPARQL) -->
+
+
+**Required Readings:**
+- DDIA Chater 10
