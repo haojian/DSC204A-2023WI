@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2023-05-19
-title: Data models evolution
+title: Data encoding evolution
 tldr: "JSON/XML/Protobuff/REST/RPC/GraphQL"
 thumbnail: /static_files/presentations/lec.jpg
 links: 

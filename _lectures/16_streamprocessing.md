@@ -2,7 +2,7 @@
 type: lecture
 date: 2023-05-31
 title: Stream processing
-tldr: ""
+tldr: "Spark"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     # - url: /static_files/presentations/lec.zip

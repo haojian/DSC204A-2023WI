@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2023-05-22
-title: Stream processing
-tldr: ""
+title: Batch processing
+tldr: "MapReduce"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     # - url: /static_files/presentations/lec.zip

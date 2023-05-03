@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2023-05-15
-title: Data models evolution
-tldr: "JSON/XML/Protobuff/REST/RPC/GraphQL"
+title: Data models and query languages
+tldr: "Relational model, document model"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     # - url: /static_files/presentations/lec.zip
