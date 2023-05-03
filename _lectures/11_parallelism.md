@@ -16,3 +16,6 @@ links:
 - [Readings 1](http://example.com)
 - [Readings 2](http://example.com) -->
  <!-- (MapReduce, SPARQL) -->
+
+**Suggested Readings:**
+Ch. 9.4, 12.2, 14.1.1, 14.6, 22.1-22.3, 22.4.1, 22.8 of Cow Book

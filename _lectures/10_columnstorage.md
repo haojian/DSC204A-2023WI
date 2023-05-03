@@ -16,3 +16,10 @@ links:
 - [Readings 1](http://example.com)
 - [Readings 2](http://example.com) -->
  <!-- (MapReduce, SPARQL) -->
+
+
+**Required Readings:**
+- DDIA Chater 3
+
+**Suggested Readings:**
+- [The Snowflake Elastic Data Warehouse](https://dl.acm.org/doi/pdf/10.1145/2882903.2903741)
