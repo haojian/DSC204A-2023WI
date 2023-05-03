@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2023-06-02
-title: Pub-Sub
+date: 2023-05-31
+title: Stream processing
 tldr: ""
 thumbnail: /static_files/presentations/lec.jpg
 links: 
