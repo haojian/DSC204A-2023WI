@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2023-05-08
-title: Guest lecture
-tldr: ""
+title: Replication & Partition
+tldr: "Replication, partition"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     # - url: /static_files/presentations/lec.zip

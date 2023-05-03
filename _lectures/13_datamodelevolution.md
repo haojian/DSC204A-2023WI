@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2023-05-12
-title: Batch processing
-tldr: ""
+date: 2023-05-15
+title: Data models evolution
+tldr: "JSON/XML/Protobuff/REST/RPC/GraphQL"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     # - url: /static_files/presentations/lec.zip
