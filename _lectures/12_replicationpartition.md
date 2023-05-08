@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    # - url: https://google.com
-    #   name: slides
+    - url: /static_files/presentations/12ReplicationPartition.pdf
+      name: May. 8 slides
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)
