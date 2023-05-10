@@ -2,7 +2,7 @@
 type: lecture
 date: 2023-05-05
 title: Parallelism
-tldr: "Distributed computation"
+tldr: "Distributed computation, Task parallelism, DASK, SIMD, Single-Node Multi-core"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     # - url: /static_files/presentations/lec.zip
