@@ -11,12 +11,14 @@ links:
     #   name: codes
     # - url: https://google.com
     #   name: slides
+    - url: /static_files/presentations/13DataModelsAndQueryLanguages.pdf
+      name: May. 15 slides
+    
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)
 - [Readings 2](http://example.com) -->
  <!-- (MapReduce, SPARQL) -->
-
 
 **Required Readings:**
 - DDIA Chater 2
