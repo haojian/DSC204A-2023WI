@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    # - url: https://google.com
-    #   name: slides
+    - url: /static_files/presentations/14DataEncoding.pdf
+      name: May. 17 slides
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)
