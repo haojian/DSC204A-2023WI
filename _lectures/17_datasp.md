@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    # - url: https://google.com
-    #   name: slides
+    - url: /static_files/presentations/2023-03-29-MPF
+      name: June 5 slides
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)
@@ -19,5 +19,5 @@ links:
 
 
 
-**Required Readings:**
+**Suggested Readings:**
 - DDIA Chater 12
